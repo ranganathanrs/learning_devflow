@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dev OverFlow",
+  title: "Dev Flow",
   description: "A Better Version of Stack OverFlow!",
 };
 
